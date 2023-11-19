@@ -41,7 +41,7 @@ class ShoeTile extends StatelessWidget {
                     Text(
                       shoe.name,
                       style:
-                          TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
+                          TextStyle(fontWeight: FontWeight.bold, fontSize: 11),
                     ),
                     const SizedBox(
                       height: 5,
@@ -53,7 +53,7 @@ class ShoeTile extends StatelessWidget {
                   ],
                 ),
                 Container(
-                    padding: EdgeInsets.all(20),
+                    padding: EdgeInsets.all(12),
                     decoration: const BoxDecoration(
                         color: Colors.black,
                         borderRadius: BorderRadius.only(
