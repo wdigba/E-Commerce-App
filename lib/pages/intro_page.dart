@@ -36,7 +36,7 @@ class IntroPage extends StatelessWidget {
                 'Show the world your style with legendary sneakers and new looks.',
                 style: TextStyle(
                   fontSize: 16,
-                  color: Colors.grey,
+                  color: Colors.black54,
                 ),
                 textAlign: TextAlign.center,
               ),
