@@ -1,16 +1,11 @@
-# e_commerce_app
+# About
+This application includes three pages: intro, shopping and cart.
+The shopping page contains "popular" Nike sneakers that you can add to your cart. 
+In the cart you can view products and delete them. 
+The application also contains decorative search bar and menu elements that do not have functionality.
 
-A new Flutter project.
+# Technologies
+google_nav_bar; provider
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Sources
+https://www.youtube.com/watch?v=HQ_ytw58tC4&t=211s
